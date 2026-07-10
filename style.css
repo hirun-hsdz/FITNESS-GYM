@@ -191,3 +191,14 @@ textarea{
 input[type="submit"]{
     margin-top:15px;
 }
+
+ul{
+    padding-left:20px;
+}
+
+footer{
+    background:#000;
+    text-align:center;
+    padding:20px;
+    margin-top:40px;
+}
