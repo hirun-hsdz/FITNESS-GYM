@@ -83,3 +83,13 @@ btn{
 .btn:hover{
     background:#ff6a33;
 }
+
+section{
+    padding:60px 0;
+}
+
+section h2{
+    text-align:center;
+    margin-bottom:20px;
+    color:#ff3c00;
+}
