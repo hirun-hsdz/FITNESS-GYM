@@ -51,3 +51,19 @@ nav ul li a:hover,
 .active{
     color:#ff3c00;
 }
+
+.hero{
+    background:#222;
+    text-align:center;
+    padding:100px 20px;
+}
+
+.hero h2{
+    font-size:50px;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:20px;
+    margin-bottom:30px;
+}
